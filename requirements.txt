@@ -1,6 +1,8 @@
-streamlit==1.42.0
+streamlit==1.22.0
+pandas==2.0.2
+numpy==1.24.2
 matplotlib==3.7.1
-pandas==2.2.3
-seaborn==0.11.2
-scikit-learn==1.0.1
-# Any other dependencies you're using
+seaborn==0.12.2
+scikit-learn==1.2.2
+Pillow==9.4.0
+joblib==1.2.0
