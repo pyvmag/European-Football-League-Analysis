@@ -1,0 +1,6 @@
+streamlit==1.42.0
+matplotlib==3.7.1
+pandas==2.2.3
+seaborn==0.11.2
+scikit-learn==1.0.1
+# Any other dependencies you're using
